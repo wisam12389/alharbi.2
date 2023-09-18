@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body {
+    background: linear-gradient(#111,#222)
+}
+body {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url();
+background-size: 1px;
+background: linear-gradient(#111, #222);
+
+}
+.programer {
+    color: black;
+    background-color: #fff;
+    border-radius: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+}
+.programer h1{
+    padding-left: 30px;
+}
+body{
+    background-image: url(https://play-lh.googleusercontent.com/9NX7zAJrSqcj5IlWUqDHrE9Es-3GF13R7hGdsRirqJ8QEl0XPYGnM3p8iJ97-KNH1yU);
+    
+    height: 100vh;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
